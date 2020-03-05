@@ -33,4 +33,5 @@ INSERT INTO `banks`.`account` (`accountid`, `account`, `userid`) VALUES ('8', '8
 INSERT INTO `banks`.`account` (`accountid`, `account`, `userid`) VALUES ('9', '6753', '3');
 INSERT INTO `banks`.`account` (`accountid`, `account`, `userid`) VALUES ('10', '75', '6');
 
+#1-4 and half of 5 task was done
 
